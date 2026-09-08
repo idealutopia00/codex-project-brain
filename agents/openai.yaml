@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Brain"
+  short_description: "Build and maintain a repository-local AI knowledge brain"
+  default_prompt: "Use $project-brain to initialize or maintain this project knowledge brain."
